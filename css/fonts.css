@@ -1,0 +1,8 @@
+/* FONT */
+@font-face {
+    font-family: fonte1;
+    src: url('../fonts/Inter-Medium.otf');
+
+    font-family: fonte2;
+    src: url('../fonts/');
+}
